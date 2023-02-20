@@ -13,3 +13,8 @@ Create the following values in your table:;
 Save your table.;
 Download the thesis folder and move the folder inside "C:\xampp\htdocs\";
 Open new tab on your browser and type "localhost/thesis/home.php";
+
+
+folder home -> about us, authorize_session, db, home, login, register;
+folder styles -> calendar, dashboard, inventory, profiles, register, report, seasonal_diseases, stylesheet;
+folder user -> calendar, dashboard, inventory, logout, profile, reports, seasonal_diseases
